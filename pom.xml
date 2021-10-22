@@ -13,7 +13,7 @@
   <packaging>hpi</packaging>
   <name>Queue cleanup Plugin</name>
   <description>Remove stalled items waiting in Jenkins queue</description>
-  <url>https://wiki.jenkins-ci.org/display/JENKINS/Queue+Cleanup+Plugin</url>
+  <url>https://github.com/jenkinsci/queue-cleanup-plugin</url>
 
   <developers>
     <developer>
